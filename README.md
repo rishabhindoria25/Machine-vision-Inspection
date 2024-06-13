@@ -74,4 +74,4 @@ To train the model:
 
 
 ## Author 
-Abhishek Tandon/ [Rishabh Indoria](https://github.com/rishabhindoria25)
+Rishabh Indoria/ [Rishabh Indoria](https://github.com/rishabhindoria25)
